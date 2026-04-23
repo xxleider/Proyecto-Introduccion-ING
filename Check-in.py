@@ -1,5 +1,3 @@
-#Algoritmo para check-in 
-
 # Base de datos simulada de reservas
 reservas = {
     "R001": {
